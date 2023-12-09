@@ -19,7 +19,7 @@ fi
 
 
 
-echo 'export SECLISTS_DIR="$HOME/wordlists/SecLists"' >> ~/.bashrc
+echo 'export SECLISTS_DIR="$HOME/wordlists"' >> ~/.bashrc
 echo 'export RAFT_SMALL="$SECLISTS_DIR/Discovery/Web-Content/raft-small-words.txt"' >> ~/.bashrc
 echo 'export RAFT_MEDIUM="$SECLISTS_DIR/Discovery/Web-Content/raft-medium-words.txt"' >> ~/.bashrc
 echo 'export RAFT_LARGE="$SECLISTS_DIR/Discovery/Web-Content/raft-large-words.txt"' >> ~/.bashrc
